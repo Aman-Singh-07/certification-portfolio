@@ -65,9 +65,6 @@ Whenever available, each entry includes:
 ---
 
 ## Anthropic Academy
-
-Completed **July 2026** as part of the **IIT Jammu Summer School Internship** under the mentorship of **Parmveer Nandal Sir**.
-
 **Focus Areas**
 
 - AI Fluency
