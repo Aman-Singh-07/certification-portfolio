@@ -78,14 +78,14 @@ Completed **July 2026** as part of the **IIT Jammu Summer School Internship** un
 
 | Certification | Certificate | Verification |
 |---------------|-------------|--------------|
-| AI Fluency: Framework & Foundations | [View PDF](certificates/anthropic/AI-Fluency-Framework-Foundations.pdf) | Coming Soon |
-| Claude 101 | [View PDF](certificates/anthropic/Claude-101.pdf) | Coming Soon |
-| Claude Platform 101 | [View PDF](certificates/anthropic/Claude-Platform-101.pdf) | Coming Soon |
-| Claude Code 101 | [View PDF](certificates/anthropic/Claude-Code-101.pdf) | Coming Soon |
-| Claude Code in Action | [View PDF](certificates/anthropic/Claude-Code-in-Action.pdf) | Coming Soon |
-| Introduction to Agent Skills | [View PDF](certificates/anthropic/Introduction-to-Agent-Skills.pdf) | Coming Soon |
-| Introduction to Claude Cowork | [View PDF](certificates/anthropic/Introduction-to-Claude-Cowork.pdf) | Coming Soon |
-| Introduction to Subagents | [View PDF](certificates/anthropic/Introduction-to-Subagents.pdf) | Coming Soon |
+| AI Fluency: Framework & Foundations | [View PDF](certificates/anthropic/AI-Fluency-Framework-Foundations.pdf) | [Certificate Link](https://verify.skilljar.com/c/gr48szwtu7v8) |
+| Claude 101 | [View PDF](certificates/anthropic/Claude-101.pdf) | [Certificate Link](https://verify.skilljar.com/c/tj8str6wwrf3) |
+| Claude Platform 101 | [View PDF](certificates/anthropic/Claude-Platform-101.pdf) | [Certificate Link](https://verify.skilljar.com/c/z9t2vx3hkxgf) |
+| Claude Code 101 | [View PDF](certificates/anthropic/Claude-Code-101.pdf) | [Certificate Link](https://verify.skilljar.com/c/82gb4h638opg) |
+| Claude Code in Action | [View PDF](certificates/anthropic/Claude-Code-in-Action.pdf) | [Certificate Link](https://verify.skilljar.com/c/n936y26himnp) |
+| Introduction to Agent Skills | [View PDF](certificates/anthropic/Introduction-to-Agent-Skills.pdf) | [Certificate Link](https://verify.skilljar.com/c/kzymi2upiuj8) |
+| Introduction to Claude Cowork | [View PDF](certificates/anthropic/Introduction-to-Claude-Cowork.pdf) | [Certificate Link](https://verify.skilljar.com/c/c9zfgpsc5e7v) |
+| Introduction to Subagents | [View PDF](certificates/anthropic/Introduction-to-Subagents.pdf) | [Certificate Link](https://verify.skilljar.com/c/c2me4679go35) |
 
 ---
 
@@ -95,10 +95,10 @@ Completed **June 2026**.
 
 | Certification | Certificate | Verification |
 |---------------|-------------|--------------|
-| n8n Quickstart (QS101) | [View PDF](certificates/n8n/QS101.pdf) | Coming Soon |
-| Essentials: Your First Workflows (N8N101) | [View PDF](certificates/n8n/N8N101.pdf) | Coming Soon |
-| Integrations: APIs & Connected Workflows (N8N102) | [View PDF](certificates/n8n/N8N102.pdf) | Coming Soon |
-| In Practice: AI, Testing & Best Practices (N8N103) | [View PDF](certificates/n8n/N8N103.pdf) | Coming Soon |
+| n8n Quickstart (QS101) | [View PDF](certificates/n8n/QS101.pdf) | [Certificate Link](https://learn.n8n.io/certificates/372497c3d80248dfb941397f683b6c54) |
+| Essentials: Your First Workflows (N8N101) | [View PDF](certificates/n8n/N8N101.pdf) | [Certificate Link](https://learn.n8n.io/certificates/a5ae0741bcb14c92b7ddd6d41df624f2) |
+| Integrations: APIs & Connected Workflows (N8N102) | [View PDF](certificates/n8n/N8N102.pdf) | [Certificate Link](https://learn.n8n.io/certificates/a47c94e992354bcfb93bce418b611eee) |
+| In Practice: AI, Testing & Best Practices (N8N103) | [View PDF](certificates/n8n/N8N103.pdf) | [Certificate Link](https://learn.n8n.io/certificates/557732c8e9a54da2bcd4f3682211c0f0) |
 
 ---
 
@@ -106,9 +106,9 @@ Completed **June 2026**.
 
 | Certification | Certificate | Verification |
 |---------------|-------------|--------------|
-| Journey to Cloud: Envisioning Your Solution | [View PDF](certificates/ibm/Journey-to-Cloud.pdf) | Coming Soon |
-| Cybersecurity & Generative AI Track | [View PDF](certificates/ibm/Cybersecurity-GenAI-Track.pdf) | Coming Soon |
-| Getting Started with Artificial Intelligence | [View PDF](certificates/ibm/AI-Basics-Track.pdf) | — |
+| Journey to Cloud: Envisioning Your Solution | [View PDF](certificates/ibm/Journey-to-Cloud.pdf) | [Certificate Link](https://www.credly.com/badges/82c84af7-f640-45e1-8950-f052e06d694f/) |
+| Cybersecurity & Generative AI Track | [View PDF](certificates/ibm/Cybersecurity-GenAI-Track.pdf) | [Certificate Link](https://www.credly.com/badges/63d335a1-6be1-485a-8f59-a6cee7f3ebd0) |
+| Getting Started with Artificial Intelligence | [View PDF](certificates/ibm/AI-Basics-Track.pdf) | [Certificate Link](https://www.credly.com/badges/8a21c036-7b24-49ae-a4b1-787ad5025fdf) |
 | IBM Build of Business (IBM BOB) | [View PDF](certificates/ibm/IBM-Bob.pdf) | — |
 | Exploring Quantum Computing | [View PDF](certificates/ibm/Exploring-Quantum-Computing.pdf) | — |
 
@@ -127,8 +127,8 @@ Completed **June 2026**.
 
 | Certification | Certificate | Verification |
 |---------------|-------------|--------------|
-| Data Structures & Algorithms – Self Paced | [View PDF](certificates/geeksforgeeks/DSA-Self-Paced.pdf) | — |
-| Soft Skills – Professional Development | [View PDF](certificates/geeksforgeeks/Soft-Skills-Course.pdf) | — |
+| Data Structures & Algorithms – Self Paced | [View PDF](certificates/geeksforgeeks/DSA-Self-Paced.pdf) | [Certificate Link](https://media.geeksforgeeks.org/courses/certificates/1ddfd37d96171a34a9c6ea8d4315ce94.pdf) |
+| Soft Skills – Professional Development | [View PDF](certificates/geeksforgeeks/Soft-Skills-Course.pdf) | [Certificate Link](https://media.geeksforgeeks.org/courses/certificates/cf4f63752a430abf1fd411064e192e64.pdf) |
 
 ---
 
@@ -144,9 +144,9 @@ Completed **June 2026**.
 
 | Certification | Certificate | Verification |
 |---------------|-------------|--------------|
-| Java (Basic) | [View PDF](certificates/hackerrank/Java-Basic.pdf) | Coming Soon |
-| Python (Basic) | [View PDF](certificates/hackerrank/Python-Basic.pdf) | Coming Soon |
-| Problem Solving (Basic) | [View PDF](certificates/hackerrank/Problem-Solving-Basic.pdf) | Coming Soon |
+| Java (Basic) | [View PDF](certificates/hackerrank/Java-Basic.pdf) | [Certificate Link](https://www.hackerrank.com/certificates/iframe/7620b9d6ad73) |
+| Python (Basic) | [View PDF](certificates/hackerrank/Python-Basic.pdf) | [Certificate Link](https://www.hackerrank.com/certificates/8b1928a94e9c) |
+| Problem Solving (Basic) | [View PDF](certificates/hackerrank/Problem-Solving-Basic.pdf) | [Certificate Link](https://www.hackerrank.com/certificates/iframe/6d57be34ee52) |
 
 ---
 
